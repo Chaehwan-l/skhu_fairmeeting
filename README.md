@@ -1,8 +1,11 @@
-# project
+# skhu_fairmeeting
+25_1 CapstoneDesign
+
+## Additional Information
 
 A new Flutter project.
 
-## Getting Started
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
